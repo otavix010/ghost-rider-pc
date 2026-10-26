@@ -1,0 +1,14 @@
+{
+  "nome": "Ghost Rider",
+  "serial": "SLES-54317",
+  "elf": "SLES_543.17",
+  "cd_root": "",
+  "exe": "ghostrider.exe",
+  "iso_sha1": [
+    "e3f0bb28b4a1a0c98f045f9eddb56b7b7640b4af"
+  ],
+  "elf_sha1": [
+    "ca2f5fa8b1b7214d67c4e87343cc36474318b94a"
+  ],
+  "versao": "europeia, SLES-54317"
+}
