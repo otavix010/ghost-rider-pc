@@ -1,4 +1,20 @@
-# Ghost Rider — port nativo para PC
+<h1 align="center">Ghost Rider — port nativo para PC</h1>
+
+<p align="center"><i>Ghost Rider (PS2, PAL): port nativo para PC por recompilação estática (PS2Recomp). Gera a partir da sua ISO. Em desenvolvimento.</i></p>
+
+<p align="center">
+  <a href="https://github.com/otavix010/ghost-rider-pc/commits/main"><img alt="Última atualização" src="https://img.shields.io/github/last-commit/otavix010/ghost-rider-pc?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o"></a>
+  <a href="https://github.com/otavix010/otavix-launcher/releases/latest"><img alt="Baixar o Otavix Launcher" src="https://img.shields.io/badge/Otavix%20Launcher-baixar-b00020"></a>
+</p>
+
+<p align="center">
+  <a href="#o-que-é">O que é</a> ·
+  <a href="#estado-atual-em-desenvolvimento">Estado atual: em desenvolvimento</a> ·
+  <a href="#como-gerar">Como gerar</a> ·
+  <a href="#como-funciona">Como funciona</a> ·
+  <a href="#licença-e-créditos">Licença e créditos</a> ·
+  <a href="#english-summary">English</a>
+</p>
 
 > **Projeto de fãs, sem fins lucrativos.** *Ghost Rider* é marca registrada da Marvel; o jogo foi publicado pela 2K Games; este projeto não tem relação com a Marvel nem a 2K Games. Este repositório **não contém o jogo**: você precisa da **sua própria cópia** do DVD (a versão europeia, **SLES-54317**).
 
